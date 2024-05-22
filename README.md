@@ -1,8 +1,14 @@
 ## Hi there 👋
-John "Johny" Youssef - <font color="green">Hack The System</font>
-Welcome to my digital fortress!
 
-I'm a skilled  <font color="green">backend engineer</font>  with a passion for crafting immaculate code and solving complex problems.  Fueled by a thirst for knowledge, I'm constantly  <font color="green">hacking</font>  new technologies and frameworks to build robust and scalable systems.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm John Youssef 👑</h1>
+
+<h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer | ITI Graduate</h2>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=C00000&center=true&vCenter=true&width=420&lines=Follow+to+get+new+updates+💙👌;)](https://www.google.com.eg/search?q=ahmed+hemeda)
+
+</div>
 
 Tech Stack:
 
