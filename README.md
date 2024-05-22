@@ -22,7 +22,7 @@ I'm a skilled  <font color="green">backend engineer</font>  with a passion for c
     
 * **Databases:**
     * <font color="green">SQL (MySQL, PostgreSQL, MS SQL Server)</font>
-    * <font color="green">NoSQL (MongoDB, Cassandra)  (Replace with your specific NoSQL knowledge)</font>
+    * <font color="green">NoSQL (MongoDB, Firebase)</font>
     
 * **Testing:**
     * <font color="green">Postman</font>
