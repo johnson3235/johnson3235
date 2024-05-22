@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm John Youssef 👑</h1>
 
 <h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer | ITI Graduate</h2>
@@ -12,33 +10,32 @@
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-Tech Stack:
+I'm a skilled  <font color="green">backend engineer</font>  with a passion for crafting immaculate code and tackling complex challenges.  Fueled by a relentless pursuit of knowledge, I'm constantly  <font color="green">hacking</font>  new technologies and frameworks to architect robust, scalable systems.
 
-Backend Languages:
-<br/>
-<font color="green">Python (Django, Flask)</font>
-<br/>
-<font color="green">Java (Spring Boot)</font><br/>
-<font color="green">PHP (Laravel)</font><br/>
-<font color="green">.NET (ASP.NET Core)</font><br/>
-Databases:<br/>
-<font color="green">SQL (MySQL, PostgreSQL, MS SQL Server)</font><br/>
-<font color="green">NoSQL (optional - list specific ones you know)</font><br/>
-Testing:<br/>
-<font color="green">Postman</font><br/>
-<font color="green">Unit Testing Frameworks</font><br/>
-Version Control:<br/>
-<font color="green">Git</font><br/>
-Deployment:
-<font color="green">Heroku</font><br/>
-<font color="green">AWS (optional)</font><br/>
-Soft Skills:<br/>
-<font color="green">Clean Code</font><br/>
-<font color="green">SOLID Principles</font><br/>
-<font color="green">Problem-Solving</font><br/>
-<font color="green">Teamwork</font><br/>
-<font color="green">Continuous Learning</font><br/>
+**Tech Stack:**
 
+* **Backend Languages:**
+    * <font color="green">Python (Django, Flask)</font>
+    * <font color="green">Java (Spring Boot)</font>
+    * <font color="green">PHP (Laravel)</font>
+    * <font color="green">.NET (ASP.NET Core)</font>
+* **Databases:**
+    * <font color="green">SQL (MySQL, PostgreSQL, MS SQL Server)</font>
+    * <font color="green">NoSQL (MongoDB, Cassandra)  (Replace with your specific NoSQL knowledge)</font>
+* **Testing:**
+    * <font color="green">Postman</font>
+    * <font color="green">Unit Testing Frameworks (e.g., JUnit, PHPUnit, pytest)</font>  (Provide examples)
+* **Version Control:**
+    * <font color="green">Git</font>
+* **Deployment:**
+    * <font color="green">Heroku</font>
+    * <font color="green">AWS (S3, EC2, Lambda)  (Replace with your specific AWS knowledge)</font>  (Provide examples)
+* **Soft Skills:**
+    * <font color="green">Clean Code</font>
+    * <font color="green">SOLID Principles</font>
+    * <font color="green">Problem-Solving</font>
+    * <font color="green">Teamwork</font>
+    * <font color="green">Continuous Learning</font>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=johnson3235&label=Visitors&color=0060A0&style=flat" height="40"/>
