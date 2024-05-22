@@ -36,29 +36,28 @@ Soft Skills:
 <font color="green">Problem-Solving</font>
 <font color="green">Teamwork</font>
 <font color="green">Continuous Learning</font>
-Education:
 
-Bachelor of Computer Science & Artificial Intelligence (Sep 2019 - Jun 2023) | Helwan University, Cairo, Egypt (GPA: Very Good with Honor - 3.24)
-Graduation Project (A+): Car Community App (using Machine Learning for used car price prediction)
-Experience:
 
-Software Engineer (Jul 2023 - Present) | FRESH ELECTRIC FOR HOME APPLIANCES, Cairo, Egypt
-Built and maintained backend/frontend applications to elevate appliance functionality and user experience.
-Automated workflows and integrated systems for enhanced efficiency.
-Collaborated with cross-functional teams to design and implement software solutions.
-Software Engineer Intern (Aug 2023 - Oct 2023) | Eva Pharma, Giza, Egypt
-Awarded "Best Project" at Eva Hackathon, demonstrating exceptional problem-solving and teamwork.
-Contributed to real-world projects using ASP.NET Core API.
-Backend Developer Intern (Jul 2022 - Nov 2022) | FRESH ELECTRIC FOR HOME APPLIANCES, Cairo, Egypt
-Honed skills in Django, Django REST Framework, Postman, and test case development.
-Assisted in ERP system maintenance and optimized performance.
-Open Source:
-
-(List any open-source projects you contribute to)
-Let's Connect!
-
-I'm always up for a challenge and eager to collaborate with fellow  <font color="green">hackers</font>. Feel free to reach out:
-
-Email: johnyoussef32@gmail.com
-(Optional: Add links to social media profiles like LinkedIn or Twitter if appropriate)
-Disclaimer: This is a fictional profile for demonstration purposes only. Replace the bracketed content with your specific information.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=johnson3235&label=Visitors&color=0060A0&style=flat" height="40"/>
+  <a href="https://github.com/johnson3235/johnson3235">
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=202525&color=800000&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Da-hemeda&longCache=true" height="40"/> </a>
+  <a href="https://github.com/johnson3235/johnson3235?tab=stars"> <img Followers" src="https://img.shields.io/github/stars/a-hemeda?color=red&logo=github" height="40" > </a> </p>
+ 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Plus+22K+LinkedIn+Followers+❤️✨" /> </h2>
+ 
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/john-youssef-2160091b4/"><img src="https://img.shields.io/badge/-LinkedIn-0060A0?style=for-the-badge&logo=Linkedin&logoColor=white" height="50" > </img> </a>
+  <a target="_blank" href="mailto:johnyoussef32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-800000?style=for-the-badge&logo=Gmail&logoColor=white" height="50" > </img> </a>
+<br/>
+<p align="center">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50"/> </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="50"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/> </a> </p>
+<br/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
