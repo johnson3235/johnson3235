@@ -15,21 +15,26 @@ I'm a skilled  <font color="green">backend engineer</font>  with a passion for c
 **Tech Stack:**
 
 * **Backend Languages:**
-    * <font color="green">Python (Django, Flask)</font>
+    * <font color="green">.NET (ASP.NET Core)</font>    
+    * <font color="green">Python (Django)</font>
     * <font color="green">Java (Spring Boot)</font>
     * <font color="green">PHP (Laravel)</font>
-    * <font color="green">.NET (ASP.NET Core)</font>
+    
 * **Databases:**
     * <font color="green">SQL (MySQL, PostgreSQL, MS SQL Server)</font>
     * <font color="green">NoSQL (MongoDB, Cassandra)  (Replace with your specific NoSQL knowledge)</font>
+    
 * **Testing:**
     * <font color="green">Postman</font>
     * <font color="green">Unit Testing Frameworks (e.g., JUnit, PHPUnit, pytest)</font>  (Provide examples)
+    * 
 * **Version Control:**
     * <font color="green">Git</font>
+    
 * **Deployment:**
     * <font color="green">Heroku</font>
     * <font color="green">AWS (S3, EC2, Lambda)  (Replace with your specific AWS knowledge)</font>  (Provide examples)
+      
 * **Soft Skills:**
     * <font color="green">Clean Code</font>
     * <font color="green">SOLID Principles</font>
