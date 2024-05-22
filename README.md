@@ -15,27 +15,29 @@
 Tech Stack:
 
 Backend Languages:
+<br/>
 <font color="green">Python (Django, Flask)</font>
-<font color="green">Java (Spring Boot)</font>
-<font color="green">PHP (Laravel)</font>
-<font color="green">.NET (ASP.NET Core)</font>
-Databases:
-<font color="green">SQL (MySQL, PostgreSQL, MS SQL Server)</font>
-<font color="green">NoSQL (optional - list specific ones you know)</font>
-Testing:
-<font color="green">Postman</font>
-<font color="green">Unit Testing Frameworks</font>
-Version Control:
-<font color="green">Git</font>
+<br/>
+<font color="green">Java (Spring Boot)</font><br/>
+<font color="green">PHP (Laravel)</font><br/>
+<font color="green">.NET (ASP.NET Core)</font><br/>
+Databases:<br/>
+<font color="green">SQL (MySQL, PostgreSQL, MS SQL Server)</font><br/>
+<font color="green">NoSQL (optional - list specific ones you know)</font><br/>
+Testing:<br/>
+<font color="green">Postman</font><br/>
+<font color="green">Unit Testing Frameworks</font><br/>
+Version Control:<br/>
+<font color="green">Git</font><br/>
 Deployment:
-<font color="green">Heroku</font>
-<font color="green">AWS (optional)</font>
-Soft Skills:
-<font color="green">Clean Code</font>
-<font color="green">SOLID Principles</font>
-<font color="green">Problem-Solving</font>
-<font color="green">Teamwork</font>
-<font color="green">Continuous Learning</font>
+<font color="green">Heroku</font><br/>
+<font color="green">AWS (optional)</font><br/>
+Soft Skills:<br/>
+<font color="green">Clean Code</font><br/>
+<font color="green">SOLID Principles</font><br/>
+<font color="green">Problem-Solving</font><br/>
+<font color="green">Teamwork</font><br/>
+<font color="green">Continuous Learning</font><br/>
 
 
 <p align="center">
@@ -58,6 +60,4 @@ Soft Skills:
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/> </a> </p>
-<br/>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
+
