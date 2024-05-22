@@ -10,6 +10,8 @@
 
 </div>
 
+<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+
 Tech Stack:
 
 Backend Languages:
